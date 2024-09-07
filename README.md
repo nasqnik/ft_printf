@@ -1,6 +1,7 @@
 # ft_printf - 42 Project
 
 **ft_printf** is focused on recreating the functionality of the standard C `printf` function. 
+The project also includes proper error management, ensuring that the function returns `-1` in case of failure, as in the standard `printf`. 
 
 Supports the limited amount of specifiers:
 
